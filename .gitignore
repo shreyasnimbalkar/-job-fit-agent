@@ -7,5 +7,3 @@ output/
 .pytest_cache/
 *.egg-info/
 
-# personal interview-prep notes - not for the public repo
-GUIDE.md
