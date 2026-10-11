@@ -1,0 +1,29 @@
+Software Engineer Intern, ML Platform (Summer 2026)
+Northwind Robotics - San Francisco, CA (Hybrid)
+
+About the team
+The ML Platform team builds the infrastructure our researchers use to train, evaluate, and
+deploy models that run on our warehouse robots. You'll ship production code from week one.
+
+What you'll do
+- Build and maintain Python services that serve model predictions to robots in real time
+- Design data pipelines that move sensor data from S3 into our training datasets
+- Improve CI/CD and testing for the ML platform
+- Work with researchers to turn prototype models into reliable production services
+
+Minimum qualifications
+- Currently pursuing a BS or MS in Computer Science or a related field
+- Strong programming skills in Python
+- Experience building REST APIs or backend services
+- Familiarity with SQL and relational databases
+- Experience with Git and Linux
+
+Preferred qualifications
+- Experience with Docker and Kubernetes
+- Experience with AWS or another cloud provider
+- Coursework or projects in machine learning (scikit-learn, PyTorch, or TensorFlow)
+- Experience with CI/CD tools such as GitHub Actions
+- Familiarity with Apache Airflow or other workflow orchestration tools
+
+Northwind Robotics is an equal opportunity employer. Benefits include housing stipend,
+commuter benefits, and catered lunches.
